@@ -1,0 +1,25 @@
+{
+  "name": "gulp-i18n-properties",
+  "version": "0.1.0",
+  "description": "gulp plugin to convert java i18n property files to json",
+  "author": "ui@aconex.com",
+  "main": "index.js",
+  "repository": "Aconex/gulp-i18n-properties",
+  "keywords": [ "gulpplugin", "i18n", "java", "properties" ],
+  "license": "MIT",
+  "bugs": "https://github.com/Aconex/gulp-i18n-properties/issues",
+  "homepage": "https://github.com/Aconex/gulp-i18n-properties",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "peerDependencies": {
+    "gulp": ">=3.9.0"
+  },
+  "dependencies": {
+    "properties-parser": ">=0.2.3",
+    "through2": "^2.0.0",
+    "vinyl": "^1.1.0"
+  }
+}
