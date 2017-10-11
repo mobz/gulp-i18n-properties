@@ -1,6 +1,6 @@
 {
   "name": "gulp-i18n-properties",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gulp plugin to convert java i18n property files to json",
   "author": "ui@aconex.com",
   "main": "index.js",
